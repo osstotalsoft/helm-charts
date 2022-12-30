@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   atlas-application:
   - apiVersion: v1
+    appVersion: 0.3.2
+    created: "2022-12-30T13:42:50.797855135Z"
+    description: Workflow Configurator
+    digest: 1ece6c82bdda961cc16c54fa4fd5410a66ec46b775192d63fc82c0bb3edcdcfa
+    name: atlas-application
+    type: application
+    urls:
+    - https://osstotalsoft.github.io/helm-charts/atlas-application-0.3.2.tgz
+    version: 0.3.2
+  - apiVersion: v1
     appVersion: 0.3.1
-    created: "2022-10-31T10:26:26.660723658Z"
+    created: "2022-12-30T13:42:50.797514834Z"
     description: Workflow Configurator
     digest: 3ecd8a7ced6816c407674c9678b270574b07afbca7d8f27d05a6fde33a81721e
     name: atlas-application
@@ -13,7 +23,7 @@ entries:
     version: 0.3.1
   - apiVersion: v1
     appVersion: 0.3.0
-    created: "2022-10-31T10:26:26.660474343Z"
+    created: "2022-12-30T13:42:50.797169032Z"
     description: Workflow Configurator
     digest: 98a4d674ba86a6f03ab1ba2fbd552e4395b99848ed5254ffbce1509e37978f68
     name: atlas-application
@@ -23,7 +33,7 @@ entries:
     version: 0.3.0
   - apiVersion: v1
     appVersion: 0.2.7
-    created: "2022-10-31T10:26:26.660164624Z"
+    created: "2022-12-30T13:42:50.796515328Z"
     description: Workflow Configurator
     digest: a0794c55a1b96949175371f51b13832c0353a9594e610b7c705d1a15a9df61f1
     name: atlas-application
@@ -33,7 +43,7 @@ entries:
     version: 0.2.7
   - apiVersion: v1
     appVersion: 0.2.4
-    created: "2022-10-31T10:26:26.659862006Z"
+    created: "2022-12-30T13:42:50.795750624Z"
     description: Workflow Configurator
     digest: e962ff871a95793cdb34f0b30da5241be266904b79f30d73b20d24c1bb635d3a
     name: atlas-application
@@ -44,7 +54,7 @@ entries:
   atlas-gql-mesh:
   - apiVersion: v1
     appVersion: 0.3.1
-    created: "2022-10-31T10:26:26.662209148Z"
+    created: "2022-12-30T13:42:50.799529545Z"
     description: atlas-gql-mesh (GQL server)
     digest: 95cd80610f192f350704015e8d8c57e39bcb8d519ea6d9517db0c20819f060e2
     name: atlas-gql-mesh
@@ -54,7 +64,7 @@ entries:
     version: 0.3.1
   - apiVersion: v1
     appVersion: 0.3.0
-    created: "2022-10-31T10:26:26.661865827Z"
+    created: "2022-12-30T13:42:50.799112742Z"
     description: atlas-gql-mesh (GQL server)
     digest: 4d261846bfc36b6912c70f03bb7b428a8236b4104b703dd40749c5fc6153b0c1
     name: atlas-gql-mesh
@@ -64,7 +74,7 @@ entries:
     version: 0.3.0
   - apiVersion: v1
     appVersion: 0.2.7
-    created: "2022-10-31T10:26:26.661507405Z"
+    created: "2022-12-30T13:42:50.79871504Z"
     description: atlas-gql-mesh (GQL server)
     digest: 07491ca84468c8786f99b9eef9b301a261333243ff945b2afb0bc0448766ae38
     name: atlas-gql-mesh
@@ -74,7 +84,7 @@ entries:
     version: 0.2.7
   - apiVersion: v1
     appVersion: 0.2.4
-    created: "2022-10-31T10:26:26.661097981Z"
+    created: "2022-12-30T13:42:50.798290638Z"
     description: atlas-gql-mesh (GQL server)
     digest: 62e714573bb7ba7a4265c30c23dcc14c0cf9b12559d506f395278c14075fa183
     name: atlas-gql-mesh
@@ -85,7 +95,7 @@ entries:
   platform-controllers:
   - apiVersion: v1
     appVersion: 0.1.28
-    created: "2022-10-31T10:26:26.686959446Z"
+    created: "2022-12-30T13:42:50.81312192Z"
     description: A Helm chart for TotalSoft platform controllers
     digest: add0578c3ac5d97e5ec23fb6ae4d01870be9b3ab5850ad430eca270c63d5a6eb
     name: platform-controllers
@@ -94,7 +104,7 @@ entries:
     version: 0.1.28
   - apiVersion: v1
     appVersion: 0.1.27
-    created: "2022-10-31T10:26:26.686558122Z"
+    created: "2022-12-30T13:42:50.812621417Z"
     description: A Helm chart for TotalSoft platform controllers
     digest: cd12173af4fcf834a3b24d65235083409b9256baa2137802ff5495f82fcc733a
     name: platform-controllers
@@ -103,7 +113,7 @@ entries:
     version: 0.1.27
   - apiVersion: v1
     appVersion: 0.1.26
-    created: "2022-10-31T10:26:26.686169098Z"
+    created: "2022-12-30T13:42:50.812234815Z"
     description: A Helm chart for TotalSoft platform controllers
     digest: fbe4f0d9713cc0f43636ec6d3b10de9af2de4a2c3eaa0dddb6ba4e17eefe9e81
     name: platform-controllers
@@ -112,7 +122,7 @@ entries:
     version: 0.1.26
   - apiVersion: v1
     appVersion: 0.1.25
-    created: "2022-10-31T10:26:26.685767774Z"
+    created: "2022-12-30T13:42:50.811719912Z"
     description: A Helm chart for TotalSoft platform controllers
     digest: 24d6ed510abe70bd45691bfe8e3e74527ccbb9857e344c95f81f1addcf1421d9
     name: platform-controllers
@@ -121,7 +131,7 @@ entries:
     version: 0.1.25
   - apiVersion: v1
     appVersion: 0.1.24
-    created: "2022-10-31T10:26:26.685360449Z"
+    created: "2022-12-30T13:42:50.81131811Z"
     description: A Helm chart for TotalSoft platform controllers
     digest: 3f2833183919ba9cbfae7be1762bb819eed9fd159909c8598025afe79ba67627
     name: platform-controllers
@@ -130,7 +140,7 @@ entries:
     version: 0.1.24
   - apiVersion: v1
     appVersion: 0.1.23
-    created: "2022-10-31T10:26:26.684957325Z"
+    created: "2022-12-30T13:42:50.810739907Z"
     description: A Helm chart for TotalSoft platform controllers
     digest: b5dc65f75d325df63167564bd81ac339fa5b834c88781c4045a6fe2ea4b1d971
     name: platform-controllers
@@ -139,7 +149,7 @@ entries:
     version: 0.1.23
   - apiVersion: v1
     appVersion: 0.1.22
-    created: "2022-10-31T10:26:26.684538499Z"
+    created: "2022-12-30T13:42:50.810342305Z"
     description: A Helm chart for TotalSoft platform controllers
     digest: e353e3373c7b38659b9047d58cb3654b80cff087b4bee3946ef791a5ab1e14b5
     name: platform-controllers
@@ -148,7 +158,7 @@ entries:
     version: 0.1.22
   - apiVersion: v1
     appVersion: 0.1.21
-    created: "2022-10-31T10:26:26.684082972Z"
+    created: "2022-12-30T13:42:50.809944403Z"
     description: A Helm chart for TotalSoft platform controllers
     digest: 4ffd1a7ae29c59bb983b47eb32a6ae30bfee4a01cc1d11d281ea2de48158dc48
     name: platform-controllers
@@ -157,7 +167,7 @@ entries:
     version: 0.1.21
   - apiVersion: v1
     appVersion: 0.1.20
-    created: "2022-10-31T10:26:26.683619444Z"
+    created: "2022-12-30T13:42:50.8094768Z"
     description: A Helm chart for TotalSoft platform controllers
     digest: 972aa384cafa11db9b70d4d0582bcb82d42a042d7f9d9c13de0b7330b0f10744
     name: platform-controllers
@@ -166,7 +176,7 @@ entries:
     version: 0.1.20
   - apiVersion: v1
     appVersion: 0.1.19
-    created: "2022-10-31T10:26:26.68273059Z"
+    created: "2022-12-30T13:42:50.808694196Z"
     description: A Helm chart for TotalSoft platform controllers
     digest: 6670c257d216a676f66bd9f7bcb437014173d38736d21835638c68cf34f26941
     name: platform-controllers
@@ -175,7 +185,7 @@ entries:
     version: 0.1.19
   - apiVersion: v1
     appVersion: 0.1.18
-    created: "2022-10-31T10:26:26.682270962Z"
+    created: "2022-12-30T13:42:50.808231893Z"
     description: A Helm chart for TotalSoft platform controllers
     digest: a07d2c379022eb43149984a1e3402e9cb9c607445cf676e5192a1981e82e985a
     name: platform-controllers
@@ -184,7 +194,7 @@ entries:
     version: 0.1.18
   - apiVersion: v1
     appVersion: 0.1.17
-    created: "2022-10-31T10:26:26.681582121Z"
+    created: "2022-12-30T13:42:50.80773919Z"
     description: A Helm chart for TotalSoft platform controllers
     digest: 648ca4346e24d6602f0a1f7aacbc478f7493e8a17919dcc87b3abe59eb9e634b
     name: platform-controllers
@@ -193,7 +203,7 @@ entries:
     version: 0.1.17
   - apiVersion: v1
     appVersion: 0.1.16
-    created: "2022-10-31T10:26:26.680866677Z"
+    created: "2022-12-30T13:42:50.807308788Z"
     description: A Helm chart for TotalSoft platform controllers
     digest: 7f800536234ba3e593da2ca894dff3eb011dbce5930def92d00a9253ffb0d9b9
     name: platform-controllers
@@ -202,7 +212,7 @@ entries:
     version: 0.1.16
   - apiVersion: v1
     appVersion: 0.1.15
-    created: "2022-10-31T10:26:26.666032779Z"
+    created: "2022-12-30T13:42:50.806827485Z"
     description: A Helm chart for TotalSoft platform controllers
     digest: aac7a53539c73f510d01fe93bae0dc019e32ded39693f2cab0108f614441fb8f
     name: platform-controllers
@@ -211,7 +221,7 @@ entries:
     version: 0.1.15
   - apiVersion: v1
     appVersion: 0.1.14
-    created: "2022-10-31T10:26:26.665616854Z"
+    created: "2022-12-30T13:42:50.805428977Z"
     description: A Helm chart for TotalSoft platform controllers
     digest: 2a110850ed71e665a4a6b4d6c3049262d977790686019aa88f61225e2ddd7695
     name: platform-controllers
@@ -220,7 +230,7 @@ entries:
     version: 0.1.14
   - apiVersion: v1
     appVersion: 0.1.13
-    created: "2022-10-31T10:26:26.665198929Z"
+    created: "2022-12-30T13:42:50.804844074Z"
     description: A Helm chart for TotalSoft platform controllers
     digest: 55aeee5f46cd22455362f70e189a220b938e3f4e0558c8638d9d1eb9d1f50ce8
     name: platform-controllers
@@ -229,7 +239,7 @@ entries:
     version: 0.1.13
   - apiVersion: v1
     appVersion: 0.1.12
-    created: "2022-10-31T10:26:26.664763902Z"
+    created: "2022-12-30T13:42:50.803635468Z"
     description: A Helm chart for TotalSoft platform controllers
     digest: 881b636c9832e31726dc3fb80be7fa350746c338c695d7700e1793193980c0e6
     name: platform-controllers
@@ -238,7 +248,7 @@ entries:
     version: 0.1.12
   - apiVersion: v1
     appVersion: 0.1.11
-    created: "2022-10-31T10:26:26.66373454Z"
+    created: "2022-12-30T13:42:50.802407461Z"
     description: A Helm chart for TotalSoft platform controllers
     digest: 70fc5ca18e2d8bda0dc9dcad32a5e76354e94d58f915b216a071013b0edbe0c4
     name: platform-controllers
@@ -247,7 +257,7 @@ entries:
     version: 0.1.11
   - apiVersion: v1
     appVersion: 0.1.10
-    created: "2022-10-31T10:26:26.663309314Z"
+    created: "2022-12-30T13:42:50.801829657Z"
     description: A Helm chart for TotalSoft platform controllers
     digest: ba3419524c1f7418350cf197b16586ac05dcfca17a1e7c739fcdbfbcd309e4cf
     name: platform-controllers
@@ -256,7 +266,7 @@ entries:
     version: 0.1.10
   - apiVersion: v1
     appVersion: 0.1.9
-    created: "2022-10-31T10:26:26.697899908Z"
+    created: "2022-12-30T13:42:50.818902152Z"
     description: A Helm chart for TotalSoft platform controllers
     digest: 31bca122fb560fabd131de455ad3e9c7cdcd5113b28a938134cc5e1781322dcd
     name: platform-controllers
@@ -265,7 +275,7 @@ entries:
     version: 0.1.9
   - apiVersion: v1
     appVersion: 0.1.8
-    created: "2022-10-31T10:26:26.697444881Z"
+    created: "2022-12-30T13:42:50.81849675Z"
     description: A Helm chart for TotalSoft platform controllers
     digest: c9851e9f43c6fb41cdbb800e6e02c3cc0def2043f24f3c9c607c9abb32ec6c1d
     name: platform-controllers
@@ -274,7 +284,7 @@ entries:
     version: 0.1.8
   - apiVersion: v1
     appVersion: 0.1.7
-    created: "2022-10-31T10:26:26.69693355Z"
+    created: "2022-12-30T13:42:50.818002047Z"
     description: A Helm chart for TotalSoft platform controllers
     digest: 942983848a878f96395cd2170eae8f2774fa736f6831e6ca2d37c51e9bdaebe1
     name: platform-controllers
@@ -283,7 +293,7 @@ entries:
     version: 0.1.7
   - apiVersion: v1
     appVersion: 0.1.6
-    created: "2022-10-31T10:26:26.696476222Z"
+    created: "2022-12-30T13:42:50.817431344Z"
     description: A Helm chart for TotalSoft platform controllers
     digest: 3cb2a56c4ad52d676c70649898ded9ff8308b15e2cfe5b67e9baa7acb20c4a60
     name: platform-controllers
@@ -292,7 +302,7 @@ entries:
     version: 0.1.6
   - apiVersion: v1
     appVersion: 0.1.5
-    created: "2022-10-31T10:26:26.687986108Z"
+    created: "2022-12-30T13:42:50.815679034Z"
     description: A Helm chart for TotalSoft platform controllers
     digest: 423fb49e6509d925f70e9bf184813a8db4ac413362c65d3e5425616f8f0104ce
     name: platform-controllers
@@ -301,7 +311,7 @@ entries:
     version: 0.1.5
   - apiVersion: v1
     appVersion: 0.1.4
-    created: "2022-10-31T10:26:26.687645988Z"
+    created: "2022-12-30T13:42:50.814115126Z"
     description: A Helm chart for TotalSoft platform controllers
     digest: d1fbf9337d808948afac2dab00d4fdc52e49b29aeba00fc4f8927df2bf86c153
     name: platform-controllers
@@ -310,7 +320,7 @@ entries:
     version: 0.1.4
   - apiVersion: v1
     appVersion: 0.1.3
-    created: "2022-10-31T10:26:26.687301967Z"
+    created: "2022-12-30T13:42:50.813560423Z"
     description: A Helm chart for TotalSoft platform controllers
     digest: 2e35cc219a4acef7928fd00e746112e5275fbd7ea356dd7df9865e7ca5960b76
     name: platform-controllers
@@ -319,7 +329,7 @@ entries:
     version: 0.1.3
   - apiVersion: v1
     appVersion: 0.1.2
-    created: "2022-10-31T10:26:26.683129114Z"
+    created: "2022-12-30T13:42:50.809067098Z"
     description: A Helm chart for TotalSoft platform controllers
     digest: 00cb100a580d23fb24013542b287cc3dad74e3d564d3afd6809ead35933c1619
     name: platform-controllers
@@ -328,7 +338,7 @@ entries:
     version: 0.1.2
   - apiVersion: v1
     appVersion: 0.1.1
-    created: "2022-10-31T10:26:26.662886289Z"
+    created: "2022-12-30T13:42:50.80045715Z"
     description: A Helm chart for TotalSoft platform controllers
     digest: 8f881a8d8eb9011dffd7d5c51b364b9be13a2d8ce9c50734538c0b8751dbce6c
     name: platform-controllers
@@ -337,7 +347,7 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2022-10-31T10:26:26.662538568Z"
+    created: "2022-12-30T13:42:50.799924747Z"
     description: A Helm chart for TotalSoft platform controllers
     digest: d02dc4b4416f21fbf70a376a379c869d9c81998cee8b67669ce969501a253163
     name: platform-controllers
@@ -347,7 +357,7 @@ entries:
   provisioning-controller:
   - apiVersion: v1
     appVersion: 0.0.11
-    created: "2022-10-31T10:26:26.698176625Z"
+    created: "2022-12-30T13:42:50.819169754Z"
     description: A Helm chart for Tenant provisioner controller
     digest: 2e5f246e443456a72543ab92577cd6575b824ff22d70643019c7feb5c786615a
     name: provisioning-controller
@@ -357,7 +367,7 @@ entries:
   rusi:
   - apiVersion: v1
     appVersion: 0.0.72
-    created: "2022-10-31T10:26:26.730890105Z"
+    created: "2022-12-30T13:42:50.861955891Z"
     description: A Helm chart for Rusi on Kubernetes
     digest: 44983ccec906f900520230eea1706973c24e05f10b9a0815fa1c442af8fa274a
     name: rusi
@@ -366,7 +376,7 @@ entries:
     version: 0.0.72
   - apiVersion: v1
     appVersion: 0.0.71
-    created: "2022-10-31T10:26:26.729298609Z"
+    created: "2022-12-30T13:42:50.861171687Z"
     description: A Helm chart for Rusi on Kubernetes
     digest: 4290c09710dfb60240537fef8a9c3ae656c3357109f3c38be186718f8491846f
     name: rusi
@@ -375,7 +385,7 @@ entries:
     version: 0.0.71
   - apiVersion: v1
     appVersion: 0.0.70
-    created: "2022-10-31T10:26:26.728216543Z"
+    created: "2022-12-30T13:42:50.860433983Z"
     description: A Helm chart for Rusi on Kubernetes
     digest: c339a3aea9888e85abf45566bc861bcc737c5903cdeba99d1dba81e18c421f30
     name: rusi
@@ -384,7 +394,7 @@ entries:
     version: 0.0.70
   - apiVersion: v1
     appVersion: 0.0.69
-    created: "2022-10-31T10:26:26.727583805Z"
+    created: "2022-12-30T13:42:50.859786879Z"
     description: A Helm chart for Rusi on Kubernetes
     digest: 5a6ed93a3041b11fb016c591b13437d58ebadddb14feaa297897174f1774440e
     name: rusi
@@ -393,7 +403,7 @@ entries:
     version: 0.0.69
   - apiVersion: v1
     appVersion: 0.0.68
-    created: "2022-10-31T10:26:26.726981369Z"
+    created: "2022-12-30T13:42:50.859129175Z"
     description: A Helm chart for Rusi on Kubernetes
     digest: 9870f27891c4b81c93c93da90f83b152978b3fb4b0e48f1b41cd0c4d80472659
     name: rusi
@@ -402,7 +412,7 @@ entries:
     version: 0.0.68
   - apiVersion: v1
     appVersion: 0.0.67
-    created: "2022-10-31T10:26:26.726404234Z"
+    created: "2022-12-30T13:42:50.858376371Z"
     description: A Helm chart for Rusi on Kubernetes
     digest: 54b2c1e13f378067962d57586a007c804c468289ba42c5935da9e312dd092828
     name: rusi
@@ -411,7 +421,7 @@ entries:
     version: 0.0.67
   - apiVersion: v1
     appVersion: 0.0.66
-    created: "2022-10-31T10:26:26.725868501Z"
+    created: "2022-12-30T13:42:50.857745668Z"
     description: A Helm chart for Rusi on Kubernetes
     digest: ae6ac96d395d92d4836c950118fded63908cc59c854a41242e9cbc8a38db2d87
     name: rusi
@@ -420,7 +430,7 @@ entries:
     version: 0.0.66
   - apiVersion: v1
     appVersion: 0.0.65
-    created: "2022-10-31T10:26:26.725337569Z"
+    created: "2022-12-30T13:42:50.857086264Z"
     description: A Helm chart for Rusi on Kubernetes
     digest: d81d7c37c3bf3b1802298c3aae1e4ab3389fb4b8915c3306ba9d3c218eb8a394
     name: rusi
@@ -429,7 +439,7 @@ entries:
     version: 0.0.65
   - apiVersion: v1
     appVersion: 0.0.64
-    created: "2022-10-31T10:26:26.724779935Z"
+    created: "2022-12-30T13:42:50.85642736Z"
     description: A Helm chart for Rusi on Kubernetes
     digest: 5de5a24e82a7c596e7af345127ab58f8da04c455bcecdba20f07f7560ad2b8db
     name: rusi
@@ -438,7 +448,7 @@ entries:
     version: 0.0.64
   - apiVersion: v1
     appVersion: 0.0.63
-    created: "2022-10-31T10:26:26.724154097Z"
+    created: "2022-12-30T13:42:50.855731757Z"
     description: A Helm chart for Rusi on Kubernetes
     digest: ecf9861b857a1652c56ef0db9568d5016602e95a5452d4ab0e6071942dc1610d
     name: rusi
@@ -447,7 +457,7 @@ entries:
     version: 0.0.63
   - apiVersion: v1
     appVersion: 0.0.62
-    created: "2022-10-31T10:26:26.723490257Z"
+    created: "2022-12-30T13:42:50.854946652Z"
     description: A Helm chart for Rusi on Kubernetes
     digest: d58f42ed35e2c01c5750c5730f376d03655e1a9bbf1a857dadb0928337f95012
     name: rusi
@@ -456,7 +466,7 @@ entries:
     version: 0.0.62
   - apiVersion: v1
     appVersion: 0.0.61
-    created: "2022-10-31T10:26:26.722817417Z"
+    created: "2022-12-30T13:42:50.854279549Z"
     description: A Helm chart for Rusi on Kubernetes
     digest: a21e37c475e93d4bb5039259e19a8c5d555a3d660cdf75ac5ccb4ad5e564e4d9
     name: rusi
@@ -465,7 +475,7 @@ entries:
     version: 0.0.61
   - apiVersion: v1
     appVersion: 0.0.60
-    created: "2022-10-31T10:26:26.722167177Z"
+    created: "2022-12-30T13:42:50.853522944Z"
     description: A Helm chart for Rusi on Kubernetes
     digest: e64487a45c56ae9794b319350856241f0a4398bea771a50b9c5938809d90015b
     name: rusi
@@ -474,7 +484,7 @@ entries:
     version: 0.0.60
   - apiVersion: v1
     appVersion: 0.0.59
-    created: "2022-10-31T10:26:26.721500237Z"
+    created: "2022-12-30T13:42:50.85266914Z"
     description: A Helm chart for Rusi on Kubernetes
     digest: 4e48c50b69eedf38fced1c6634146b0eb0ea14d2d0eebb8ca0640dc7f29e23df
     name: rusi
@@ -483,7 +493,7 @@ entries:
     version: 0.0.59
   - apiVersion: v1
     appVersion: 0.0.58
-    created: "2022-10-31T10:26:26.720808495Z"
+    created: "2022-12-30T13:42:50.851964536Z"
     description: A Helm chart for Rusi on Kubernetes
     digest: 23d50bdb6bc34f005a92a33cb07172dfb7e85d43847571e851d4477f22466c81
     name: rusi
@@ -492,7 +502,7 @@ entries:
     version: 0.0.58
   - apiVersion: v1
     appVersion: 0.0.57
-    created: "2022-10-31T10:26:26.72005805Z"
+    created: "2022-12-30T13:42:50.851142131Z"
     description: A Helm chart for Rusi on Kubernetes
     digest: 8a1fc42d8596dba24185a91fbbb7d30a6cda4c7bb9e4e24b02d4d7b2bb439f04
     name: rusi
@@ -501,7 +511,7 @@ entries:
     version: 0.0.57
   - apiVersion: v1
     appVersion: 0.0.56
-    created: "2022-10-31T10:26:26.719292503Z"
+    created: "2022-12-30T13:42:50.84917152Z"
     description: A Helm chart for Rusi on Kubernetes
     digest: ffafb5b2296cd8a5d9c0fd7d1825636e4476c052dad6276af1f10dc4d9e195ac
     name: rusi
@@ -510,7 +520,7 @@ entries:
     version: 0.0.56
   - apiVersion: v1
     appVersion: 0.0.55
-    created: "2022-10-31T10:26:26.718540958Z"
+    created: "2022-12-30T13:42:50.847606212Z"
     description: A Helm chart for Rusi on Kubernetes
     digest: da50d5cc020975ab06aeb13a1963ea42888022845446af67c181b44d39e4f4bc
     name: rusi
@@ -519,7 +529,7 @@ entries:
     version: 0.0.55
   - apiVersion: v1
     appVersion: 0.0.54
-    created: "2022-10-31T10:26:26.717635003Z"
+    created: "2022-12-30T13:42:50.846808807Z"
     description: A Helm chart for Rusi on Kubernetes
     digest: 4d8af168c29d6aabca9b679eda34f9137b2962a7195c9ad6211712a834763a01
     name: rusi
@@ -528,7 +538,7 @@ entries:
     version: 0.0.54
   - apiVersion: v1
     appVersion: 0.0.53
-    created: "2022-10-31T10:26:26.716489433Z"
+    created: "2022-12-30T13:42:50.846165304Z"
     description: A Helm chart for Rusi on Kubernetes
     digest: 6c05cae46f492f54672f96c3406c472728a95b5680dc464d0eacba39689c431b
     name: rusi
@@ -537,7 +547,7 @@ entries:
     version: 0.0.53
   - apiVersion: v1
     appVersion: 0.0.52
-    created: "2022-10-31T10:26:26.715625581Z"
+    created: "2022-12-30T13:42:50.845368899Z"
     description: A Helm chart for Rusi on Kubernetes
     digest: 16ccf950458c9084818bc3ad29f87c468f7f043b43417d51659817149639c749
     name: rusi
@@ -546,7 +556,7 @@ entries:
     version: 0.0.52
   - apiVersion: v1
     appVersion: 0.0.51
-    created: "2022-10-31T10:26:26.714602219Z"
+    created: "2022-12-30T13:42:50.844586595Z"
     description: A Helm chart for Rusi on Kubernetes
     digest: 5e3aaaf150ce9d16e5eb89f6225f85ec4d92e2c7cfb2f23374adcdb8e4e15a96
     name: rusi
@@ -555,7 +565,7 @@ entries:
     version: 0.0.51
   - apiVersion: v1
     appVersion: 0.0.50
-    created: "2022-10-31T10:26:26.713852874Z"
+    created: "2022-12-30T13:42:50.843874291Z"
     description: A Helm chart for Rusi on Kubernetes
     digest: fc98b301988f3aefaf93fe6d58b7d96c345f113ced23fbb91b96e6af4bec971e
     name: rusi
@@ -564,7 +574,7 @@ entries:
     version: 0.0.50
   - apiVersion: v1
     appVersion: 0.0.49
-    created: "2022-10-31T10:26:26.713245137Z"
+    created: "2022-12-30T13:42:50.843196887Z"
     description: A Helm chart for Rusi on Kubernetes
     digest: 00db230a456fd8ae021679622dd703bfa3e9534a2d2099043b26d23a27c5a989
     name: rusi
@@ -573,7 +583,7 @@ entries:
     version: 0.0.49
   - apiVersion: v1
     appVersion: 0.0.48
-    created: "2022-10-31T10:26:26.7126361Z"
+    created: "2022-12-30T13:42:50.842531083Z"
     description: A Helm chart for Rusi on Kubernetes
     digest: 0ff4514c8d01285242953fe008d9159523fb7400b85c3618e742036ca4fbf9e2
     name: rusi
@@ -582,7 +592,7 @@ entries:
     version: 0.0.48
   - apiVersion: v1
     appVersion: 0.0.47
-    created: "2022-10-31T10:26:26.711992361Z"
+    created: "2022-12-30T13:42:50.84185488Z"
     description: A Helm chart for Rusi on Kubernetes
     digest: f5df8b4897b69c530c2f2a4b9cd63ac7d24462fedb19557a64f5642b9a396409
     name: rusi
@@ -591,7 +601,7 @@ entries:
     version: 0.0.47
   - apiVersion: v1
     appVersion: 0.0.46
-    created: "2022-10-31T10:26:26.711335922Z"
+    created: "2022-12-30T13:42:50.841187376Z"
     description: A Helm chart for Rusi on Kubernetes
     digest: 94db4dc586e8b03ed3e211d01f63cbfea5b865c5f768ad56eebfcd982fa39e14
     name: rusi
@@ -600,7 +610,7 @@ entries:
     version: 0.0.46
   - apiVersion: v1
     appVersion: 0.0.45
-    created: "2022-10-31T10:26:26.710640979Z"
+    created: "2022-12-30T13:42:50.840403372Z"
     description: A Helm chart for Rusi on Kubernetes
     digest: 2683c8ce6b1e271851516790911bc3b8875867072a85955ea89b9eb8ca0c5869
     name: rusi
@@ -609,7 +619,7 @@ entries:
     version: 0.0.45
   - apiVersion: v1
     appVersion: 0.0.44
-    created: "2022-10-31T10:26:26.70998204Z"
+    created: "2022-12-30T13:42:50.839460566Z"
     description: A Helm chart for Rusi on Kubernetes
     digest: 6e9177fabf4e27fe4dfe9b28bb268df07ee5fe76b25a97c7c3f88eb95129e3e4
     name: rusi
@@ -618,7 +628,7 @@ entries:
     version: 0.0.44
   - apiVersion: v1
     appVersion: 0.0.43
-    created: "2022-10-31T10:26:26.709332Z"
+    created: "2022-12-30T13:42:50.837090753Z"
     description: A Helm chart for Rusi on Kubernetes
     digest: 51a268100a2fc88ff9622b1fa8331423fb8ab77cc76d2568093aa1de24eb21a7
     name: rusi
@@ -627,7 +637,7 @@ entries:
     version: 0.0.43
   - apiVersion: v1
     appVersion: 0.0.42
-    created: "2022-10-31T10:26:26.708639358Z"
+    created: "2022-12-30T13:42:50.828653306Z"
     description: A Helm chart for Rusi on Kubernetes
     digest: b1d25f7563e489c8a2b1a053c551086b8b0a15430a6c895fecfa714d33acdd58
     name: rusi
@@ -636,7 +646,7 @@ entries:
     version: 0.0.42
   - apiVersion: v1
     appVersion: 0.0.41
-    created: "2022-10-31T10:26:26.707958817Z"
+    created: "2022-12-30T13:42:50.827802302Z"
     description: A Helm chart for Rusi on Kubernetes
     digest: a59ef0e8de4c89b0933bcbce50d996ac229e029cc68c1df9079015062eacf5f8
     name: rusi
@@ -645,7 +655,7 @@ entries:
     version: 0.0.41
   - apiVersion: v1
     appVersion: 0.0.40
-    created: "2022-10-31T10:26:26.707357581Z"
+    created: "2022-12-30T13:42:50.827182398Z"
     description: A Helm chart for Rusi on Kubernetes
     digest: 1b27974f3fc47de89dcb908dc478b74c6da455f81485c804969097b71d4ca819
     name: rusi
@@ -654,7 +664,7 @@ entries:
     version: 0.0.40
   - apiVersion: v1
     appVersion: 0.0.39
-    created: "2022-10-31T10:26:26.706601335Z"
+    created: "2022-12-30T13:42:50.826560995Z"
     description: A Helm chart for Rusi on Kubernetes
     digest: 6fe912dd32e8bf9e295bd3dd99a167543cfddf2be5f35960c5fd69481047dd92
     name: rusi
@@ -663,7 +673,7 @@ entries:
     version: 0.0.39
   - apiVersion: v1
     appVersion: 0.0.38
-    created: "2022-10-31T10:26:26.705142647Z"
+    created: "2022-12-30T13:42:50.825942891Z"
     description: A Helm chart for Rusi on Kubernetes
     digest: c89445ba1f6dd9b59ea05ba0ce6ac87f770468479425f26ebff59363725eeb2c
     name: rusi
@@ -672,7 +682,7 @@ entries:
     version: 0.0.38
   - apiVersion: v1
     appVersion: 0.0.37
-    created: "2022-10-31T10:26:26.704299596Z"
+    created: "2022-12-30T13:42:50.825173487Z"
     description: A Helm chart for Rusi on Kubernetes
     digest: 51c4b4b6dd84e53ee009df661f3db0343ce5832ad0a2e2b67ac0e2ada4024428
     name: rusi
@@ -681,7 +691,7 @@ entries:
     version: 0.0.37
   - apiVersion: v1
     appVersion: 0.0.36
-    created: "2022-10-31T10:26:26.703316036Z"
+    created: "2022-12-30T13:42:50.824207582Z"
     description: A Helm chart for Rusi on Kubernetes
     digest: 09a864bf131ba2448cdab678a8e0250d45f311eab7f326d1ab97854936d04179
     name: rusi
@@ -690,7 +700,7 @@ entries:
     version: 0.0.36
   - apiVersion: v1
     appVersion: 0.0.35
-    created: "2022-10-31T10:26:26.702586092Z"
+    created: "2022-12-30T13:42:50.823301877Z"
     description: A Helm chart for Rusi on Kubernetes
     digest: 54e6489b49875079622c8754b43b7696ebb15379586244a9413f80038861e684
     name: rusi
@@ -699,7 +709,7 @@ entries:
     version: 0.0.35
   - apiVersion: v1
     appVersion: 0.0.34
-    created: "2022-10-31T10:26:26.70189455Z"
+    created: "2022-12-30T13:42:50.822683673Z"
     description: A Helm chart for Rusi on Kubernetes
     digest: e77db678c8a98a49ba85507471718ebc0e7048ab26c1805bebae7caf8b9d8cb0
     name: rusi
@@ -708,7 +718,7 @@ entries:
     version: 0.0.34
   - apiVersion: v1
     appVersion: 0.0.33
-    created: "2022-10-31T10:26:26.701200208Z"
+    created: "2022-12-30T13:42:50.821861069Z"
     description: A Helm chart for Rusi on Kubernetes
     digest: 1096c13cbfae318855952317cb5efdf0eecd41ad522cf25c9fe99ddb304612eb
     name: rusi
@@ -717,7 +727,7 @@ entries:
     version: 0.0.33
   - apiVersion: v1
     appVersion: 0.0.32
-    created: "2022-10-31T10:26:26.700491165Z"
+    created: "2022-12-30T13:42:50.821061964Z"
     description: A Helm chart for Rusi on Kubernetes
     digest: 738aa337c3a4332faa4a612e9fc94221596a03fa98be00b381b746beb61ed56f
     name: rusi
@@ -726,7 +736,7 @@ entries:
     version: 0.0.32
   - apiVersion: v1
     appVersion: 0.0.31
-    created: "2022-10-31T10:26:26.699782322Z"
+    created: "2022-12-30T13:42:50.820452061Z"
     description: A Helm chart for Rusi on Kubernetes
     digest: b6fde74a2f30ff7a2d7669eae0b461372b6dde792487835cedb6b530cf178068
     name: rusi
@@ -735,11 +745,11 @@ entries:
     version: 0.0.31
   - apiVersion: v1
     appVersion: 0.0.30
-    created: "2022-10-31T10:26:26.698891368Z"
+    created: "2022-12-30T13:42:50.819812857Z"
     description: A Helm chart for Rusi on Kubernetes
     digest: 5ed31f2e32d18eacf62a79ebd4766cb845689371fa7bd4e91bbd1a243ba0f49c
     name: rusi
     urls:
     - https://osstotalsoft.github.io/helm-charts/rusi-0.0.30.tgz
     version: 0.0.30
-generated: "2022-10-31T10:26:26.659328573Z"
+generated: "2022-12-30T13:42:50.794632418Z"
